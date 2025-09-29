@@ -1,6 +1,7 @@
-<img src="https://github.com/user-attachments/assets/84e120b3-7691-4de5-bc7d-97622e49235f" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+## Meu nome é João Vitor Melo <br> Sou um Desenvolvedor Junior
 
-### Meu nome é João Vitor Melo <br> Sou um Desenvolvedor Junior :video_game:
+<img src="https://github.com/user-attachments/assets/84e120b3-7691-4de5-bc7d-97622e49235f" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" height="300px" align="right">
+
 <p align="left">
   Curso Ciências da Computação na Unifaj <br>
   Atualmente trabalho na Stecsoft. :computer:
