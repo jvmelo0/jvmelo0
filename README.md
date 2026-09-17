@@ -13,7 +13,7 @@
   <img width="40" height="40" alt="html" src="https://github.com/user-attachments/assets/617ec90c-4033-4f62-a99b-e93581fea583" />
   <img width="40" height="40" alt="css" src="https://github.com/user-attachments/assets/cf23123d-8cb7-4f7a-9733-35ffb9942e4d" />
   <img width="40" height="40" alt="Python-logo svg" src="https://github.com/user-attachments/assets/2647d29f-c87e-4a98-ad3b-19dc7c9e97d5" />
-  <img width="40" height="50" alt="Logo_C_sharp svg" src="https://github.com/user-attachments/assets/0cb90994-b160-4183-807c-9201b443a4de" />
+  <img width="40" height="40" alt="Logo_C_sharp svg" src="https://github.com/user-attachments/assets/0cb90994-b160-4183-807c-9201b443a4de" />
   <img width="40" height="40" alt="unity" src="https://github.com/user-attachments/assets/2dba0509-9b6f-4745-87ca-eac8cc1d26ee" />
   <img width="40" height="40" alt="gamemakerstudio" src="https://github.com/user-attachments/assets/aa150e8d-006d-422a-8419-7634b44cd4c3" />
 </div>
